@@ -103,7 +103,7 @@ yarn start
 ```
 <img src="https://raw.githubusercontent.com/paprikaLang/paprikaLang.github.io/imgs/graph6.jpg" width="800"/>
 
-```json
+```
 "scripts": {
     "postinstall": "tsc",
     "start": "ts-node src/index.ts",
@@ -143,7 +143,7 @@ heroku	https://git.heroku.com/secuxxxxxxxxxx731.git (push)
 
 Gatsby new 创建好项目并添加 Contentful 配置项:
 
-```json
+```
 {
   resolve:'gatsby-source-contentful',
   options: {
